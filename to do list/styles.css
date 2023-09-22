@@ -1,0 +1,38 @@
+body{
+  background-color: #F2AA0E;
+}
+
+
+
+.col-md-5{
+  margin-top: 150px !important;
+
+  background-color: white !important;
+}
+h2
+{
+  text-align: center !important;
+  font-weight: bolder !important;
+  margin: 20px !important;
+}
+input{
+  display: inline !important;
+  border: 2px solid black !important;
+  width: 85% !important;
+}
+
+.btn{
+margin-left: 10px !important;
+}
+li{
+  display:inline;
+  list-style-type: none;
+  font-size: 20px;
+  text-align: center;
+  width: 70%;
+  margin: 10px;
+}
+i{
+  color: red;
+  margin: 10px;
+}
